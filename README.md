@@ -1,3 +1,4 @@
 # Git-Basics
 Basics of Git
-Author - Sai Hemanth Vasagiri
+<br>
+Author - Sai Hemanth Vasagiri(https://github.com/saihemanth)
